@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cartr_github_act</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0001950116</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,15 +32,15 @@
         <sys_created_by>ST385005</sys_created_by>
         <sys_created_on>2025-01-06 07:42:08</sys_created_on>
         <sys_id>2f2ca3a71bf21e10797fa642604bcb6e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>ST385005</sys_updated_by>
-        <sys_updated_on>2025-01-06 07:42:08</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>github.poc</sys_updated_by>
+        <sys_updated_on>2025-01-06 10:04:36</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.1.6</version>
     </sys_app>
 </record_update>
