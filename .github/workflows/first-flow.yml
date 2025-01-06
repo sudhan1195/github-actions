@@ -2,6 +2,7 @@ name: ServiceNow GitHub Action
 
 on:
   pull_request:
+  push:
     branches:
       - main
 
