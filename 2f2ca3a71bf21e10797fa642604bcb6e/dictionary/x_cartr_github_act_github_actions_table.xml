@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f4acafe71bf21e10797fa642604bcbb0" label="Github Actions Table" max_length="40" name="x_cartr_github_act_github_actions_table" type="collection">
+        <element label="Field 5" max_length="40" name="field_5" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Field 3" max_length="40" name="field_3" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Field 2" max_length="40" name="field_2" type="string"/>
+        <element label="Field 4" max_length="40" name="field_4" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Field 1" max_length="40" name="field_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>

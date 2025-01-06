@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -23,7 +23,7 @@
         <sys_created_on>2025-01-06 07:44:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f4acafe71bf21e10797fa642604bcbb0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Github Actions Table</sys_name>
         <sys_package display_value="Github Actions App" source="x_cartr_github_act">2f2ca3a71bf21e10797fa642604bcb6e</sys_package>
         <sys_policy/>
@@ -31,7 +31,7 @@
         <sys_scope display_value="Github Actions App">2f2ca3a71bf21e10797fa642604bcb6e</sys_scope>
         <sys_update_name>sys_db_object_f4acafe71bf21e10797fa642604bcbb0</sys_update_name>
         <sys_updated_by>ST385005</sys_updated_by>
-        <sys_updated_on>2025-01-06 07:44:09</sys_updated_on>
+        <sys_updated_on>2025-01-06 10:53:21</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
